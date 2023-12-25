@@ -1,0 +1,27 @@
+.CompanyLogos{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.CompanyLogosHeading p{
+    font-size: 24px;
+    color: var(--body-text-color);
+    margin: 0;
+   
+}
+
+.CompanyLogosHeading{
+    display: flex;
+    align-items: center;
+    margin-bottom: 48px;
+    
+}
+
+.hr {
+    flex: 1;
+    margin: 0 30px;
+    height: 3px;
+    background: #D4D4D4;
+  }
+
+  

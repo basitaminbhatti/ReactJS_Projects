@@ -1,0 +1,23 @@
+.hero{
+    min-height: calc(100vh - 116px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBFAFF;
+    background-image: url(../../public/images/Pasted\ image.png);
+    background-size: cover;
+    color:var(--body-text-color);
+}
+
+.hero h1{
+    font-size: 64px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
