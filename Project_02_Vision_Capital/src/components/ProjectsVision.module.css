@@ -1,0 +1,18 @@
+.projectsvision {
+  max-width: 1920px;
+  min-height: 100vh;
+  background-color: #fbfaff;
+  background-image: url(../../public/images/Pasted\ image\ 1.png);
+  background-size: cover;
+  border-top-left-radius: 120px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 200px 0;
+}
+
+.buttonSpace {
+  margin-top: 40px;
+}

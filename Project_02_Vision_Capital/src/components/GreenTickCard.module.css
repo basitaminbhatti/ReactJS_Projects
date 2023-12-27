@@ -1,0 +1,49 @@
+.projectsvisionli {
+  background-color: #fff !important;
+  width: 580px;
+  max-height: 124px;
+  padding: 24px !important;
+  margin-bottom: 12px !important;
+  display: flex;
+  gap: 12px;
+}
+
+.projectsvisionli li {
+  list-style: none;
+  color: var(--grey-color);
+}
+
+.projectsvisionli h4 {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--body-text-color);
+}
+
+.title {
+  max-width: 80%;
+}
+.title p {
+  max-width: 60%;
+}
+.title .smalltitle {
+  font-size: 18px;
+  color: var(--primary-text-color);
+  font-weight: 600;
+}
+
+.title h1 {
+  color: var(--body-text-color);
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.title h1 span {
+  color: var(--primary-text-color);
+}
+
+.projectsvisioncard {
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  padding: auto;
+}

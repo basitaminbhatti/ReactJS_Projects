@@ -1,0 +1,39 @@
+.traditionals{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 200px 0;
+}
+.liCustom{
+    background-color: #fff !important;
+    max-width: 580px;
+    max-height: 120px;
+    padding: 24px !important;
+    margin-bottom: 12px !important;
+}
+.liCustom h4{
+    color: var(--primary-text-color);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.liCustom li{
+    color: var(--body-text-color);
+    font-size: 18px;
+    font-weight: 500;
+    max-width: 70%;
+    display: flex;
+    gap: 20px;
+
+}
+
+.trendHeading{
+    width: 65%;
+    color: var(--body-text-color);
+    font-weight: 700;
+    font-size: 52px;
+    letter-spacing: 2%;
+}
+
+.trendHeading span{
+    color: var(--primary-text-color);
+}

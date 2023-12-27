@@ -1,0 +1,19 @@
+.investorVision {
+  max-width: 1920px;
+  min-height: 100vh;
+  background-color: #fbfaff;
+  background-image: url(../../public/images/Pasted\ image\ 2.png);
+  background-size: cover;
+  border-top-right-radius: 120px;
+  margin-block: 200px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 200px 0;
+}
+
+.buttonSpace {
+  margin-top: 40px;
+}

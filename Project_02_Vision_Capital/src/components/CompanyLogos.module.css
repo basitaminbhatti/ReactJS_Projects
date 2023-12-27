@@ -1,27 +1,22 @@
-.CompanyLogos{
-    max-width: 1200px;
-    margin: 0 auto;
+.CompanyLogos {
+  max-width: 1200px;
+  margin: 180px auto 0;
 }
 
-.CompanyLogosHeading p{
-    font-size: 24px;
-    color: var(--body-text-color);
-    margin: 0;
-   
+.CompanyLogosHeading p {
+  font-size: 24px;
+  color: var(--body-text-color);
+  margin: 0 30px;
 }
 
-.CompanyLogosHeading{
-    display: flex;
-    align-items: center;
-    margin-bottom: 48px;
-    
+.CompanyLogosHeading {
+  display: flex;
+  align-items: center;
+  margin-bottom: 48px;
 }
 
 .hr {
-    flex: 1;
-    margin: 0 30px;
-    height: 3px;
-    background: #D4D4D4;
-  }
-
-  
+  flex: 1;
+  height: 3px;
+  background: #d4d4d4;
+}

@@ -1,0 +1,84 @@
+.footer {
+  max-width: 1920px;
+  min-height: 100vh;
+  background-color: var(--body-text-color);
+  color: #fff;
+  background-image: url(../../public/images/Pasted\ image\ 5.png);
+  background-size: cover;
+  border-top-left-radius: 120px;
+  margin-top: 180px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 200px 0;
+}
+
+/* .form {
+  min-width: 60%;
+} */
+.form h1 {
+  font-size: 52px;
+  font-weight: 700;
+}
+.form h1 span {
+  color: var(--primary-text-color);
+}
+
+.form p {
+  font-size: 18px;
+}
+
+.formsmall {
+  font-size: 12px;
+}
+.buttonSpace {
+  margin-top: 40px;
+}
+
+.FooterBtn button {
+  width: 232px;
+  height: 48px;
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: var(--primary-text-color);
+  border: 0;
+}
+
+.FooterBtn button:hover {
+  background-color: #5922f0;
+}
+
+.socialIcons {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: end;
+}
+
+.socialIcons h3 {
+  display: flex;
+  gap: 20px;
+  font-size: 32px;
+  justify-content: end;
+}
+
+.socialIcons h3 :hover {
+  color: #5922f0;
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+}
+
+.links a {
+  font-size: 14px;
+  color: #fff;
+}
+
+.links a:hover {
+  color: #5922f0;
+}

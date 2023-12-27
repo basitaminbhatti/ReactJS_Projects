@@ -1,0 +1,35 @@
+.btoyouby {
+  min-height: 100vh;
+}
+
+.btoyouby .image img {
+  max-width: 590px;
+  border-top-right-radius: 120px;
+  border-bottom-right-radius: 120px;
+}
+
+.btoyoubyHeading {
+  max-width: 840px;
+  padding-left: 160px;
+  padding-right: 80px;
+  margin: auto 0;
+  color: var(--body-text-color);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.btoyoubyHeading img {
+  width: 104px;
+  height: 119px;
+}
+
+.btoyoubyHeading h1 {
+  font-size: 52px;
+  font-weight: 700;
+  color: var(--primary-text-color);
+}
+
+.btoyoubyHeading span {
+  color: var(--body-text-color);
+}
